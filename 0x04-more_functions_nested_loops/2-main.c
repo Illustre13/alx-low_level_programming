@@ -11,7 +11,7 @@ int main(void)
 	c='A';
 	printf("%c: %d\n", c, _isupper(c));
 	c='a';
-	printf("%c: %d\n", c, _isupper(c));
+	printf("%c: %d\n", c, _issupper(c)));
 	return (0);
 }
 

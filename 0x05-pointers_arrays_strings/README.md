@@ -1,0 +1,3 @@
+Hello There,
+This directory contains ALX SE Program project on Low Level Programming Laanguage specifically on C-Pointers, arrays and strings.
+Thanks.......

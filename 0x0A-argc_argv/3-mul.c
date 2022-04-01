@@ -18,7 +18,6 @@ int main(int argc, char *argv[])
 	} else
 	{
 		printf("Error\n");
-		printf("You need to have 3 arguments");
 		return (1);
 	}
 }
